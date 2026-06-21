@@ -1,0 +1,11 @@
+{
+    "display_name": "Vertex 額外模型",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "Miyabi",
+    "version": "1.0.0",
+    "homePage": "https://github.com/Minijinai75"
+}
