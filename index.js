@@ -5,7 +5,7 @@
 // 要加別的模型，或正式 model ID 不一樣，改下面這個陣列即可。
 const EXTRA_VERTEX_MODELS = [
     'gemini-3.5-flash',
-    'gemini-3.6-flash',
+    'gemini-3.7-flash',
     // 'gemini-3.5-flash-preview',
 ];
 
